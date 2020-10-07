@@ -8,6 +8,7 @@ $params = array_merge(
 
 return [
     'id' => 'app-backend',
+    'name' => 'Apple Tree',
     'basePath' => dirname(__DIR__),
     'controllerNamespace' => 'backend\controllers',
     'bootstrap' => ['log'],
@@ -47,4 +48,5 @@ return [
         */
     ],
     'params' => $params,
+//     'defaultRoute' => 'apple/index'
 ];
