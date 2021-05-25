@@ -27,7 +27,6 @@ class AppleController extends Controller
                     [
                         'actions' => ['index', 'view', 'update', 'create', 'generate', 'fall', 'eat', 'delete'],
                         'allow' => true,
-                        'roles' => ['@'],
                     ],
                 ],
             ],
