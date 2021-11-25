@@ -1,3 +1,5 @@
+### Test with addvanced Yii2 Tempalate (no migration need to create table Apple by hand)
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
