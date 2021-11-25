@@ -1,4 +1,4 @@
-### Test with addvanced Yii2 Tempalate (no migration need to create table Apple by hand)
+### Test with addvanced Yii2 Tempalate (no migration need to create table Apple by hand backup in apple_db.sql)
 
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
